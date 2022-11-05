@@ -99,7 +99,7 @@ ul{
     .header .container{
         flex-direction: column;
         padding-top: 20px;
-        text-emphasis: center;
+        text-align: center;
     }
 
     .boxes .container{
